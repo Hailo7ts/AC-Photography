@@ -1,9 +1,9 @@
 # AC-Photography
 Local Photographers Portfolio/Gallery
 
-**Link to project:** https://home-cocktail-hour.netlify.app/
+**Link to project:** https://ac-photography.netlify.app/
 
-![home-page]([https://github.com/Hailo7ts/cocktail-hour/assets/101282320/9746ccd2-a313-4afc-8a68-5c82e4ef4be0](https://github.com/Hailo7ts/AC-Photography/blob/main/website.png))
+![home-page](https://github.com/Hailo7ts/AC-Photography/blob/main/website.png)
 
 ## How It's Made:
 
